@@ -583,7 +583,7 @@ if [ "$cmd_not_found" = "1" ]; then
 fi
 
 # Check and install pyimg4
-check_and_install_package "pyimg4" "0.8"
+check_and_install_package "pyimg4" "0.8.6"
 
 # Check and install pylzss
 check_and_install_package "pylzss" "0.3.4"
